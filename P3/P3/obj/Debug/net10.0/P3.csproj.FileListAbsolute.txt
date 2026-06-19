@@ -1,0 +1,14 @@
+C:\Users\MAYANK\OneDrive\Documents\Visual Studio Programs\Lab manual program\P3\P3\bin\Debug\net10.0\P3.exe
+C:\Users\MAYANK\OneDrive\Documents\Visual Studio Programs\Lab manual program\P3\P3\bin\Debug\net10.0\P3.deps.json
+C:\Users\MAYANK\OneDrive\Documents\Visual Studio Programs\Lab manual program\P3\P3\bin\Debug\net10.0\P3.runtimeconfig.json
+C:\Users\MAYANK\OneDrive\Documents\Visual Studio Programs\Lab manual program\P3\P3\bin\Debug\net10.0\P3.dll
+C:\Users\MAYANK\OneDrive\Documents\Visual Studio Programs\Lab manual program\P3\P3\bin\Debug\net10.0\P3.pdb
+C:\Users\MAYANK\OneDrive\Documents\Visual Studio Programs\Lab manual program\P3\P3\obj\Debug\net10.0\P3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MAYANK\OneDrive\Documents\Visual Studio Programs\Lab manual program\P3\P3\obj\Debug\net10.0\P3.AssemblyInfoInputs.cache
+C:\Users\MAYANK\OneDrive\Documents\Visual Studio Programs\Lab manual program\P3\P3\obj\Debug\net10.0\P3.AssemblyInfo.cs
+C:\Users\MAYANK\OneDrive\Documents\Visual Studio Programs\Lab manual program\P3\P3\obj\Debug\net10.0\P3.csproj.CoreCompileInputs.cache
+C:\Users\MAYANK\OneDrive\Documents\Visual Studio Programs\Lab manual program\P3\P3\obj\Debug\net10.0\P3.dll
+C:\Users\MAYANK\OneDrive\Documents\Visual Studio Programs\Lab manual program\P3\P3\obj\Debug\net10.0\refint\P3.dll
+C:\Users\MAYANK\OneDrive\Documents\Visual Studio Programs\Lab manual program\P3\P3\obj\Debug\net10.0\P3.pdb
+C:\Users\MAYANK\OneDrive\Documents\Visual Studio Programs\Lab manual program\P3\P3\obj\Debug\net10.0\P3.genruntimeconfig.cache
+C:\Users\MAYANK\OneDrive\Documents\Visual Studio Programs\Lab manual program\P3\P3\obj\Debug\net10.0\ref\P3.dll

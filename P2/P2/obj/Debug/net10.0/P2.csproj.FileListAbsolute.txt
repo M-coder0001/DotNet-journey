@@ -1,0 +1,14 @@
+C:\Users\MAYANK\OneDrive\Documents\Visual Studio Programs\Lab manual program\P2\P2\bin\Debug\net10.0\P2.exe
+C:\Users\MAYANK\OneDrive\Documents\Visual Studio Programs\Lab manual program\P2\P2\bin\Debug\net10.0\P2.deps.json
+C:\Users\MAYANK\OneDrive\Documents\Visual Studio Programs\Lab manual program\P2\P2\bin\Debug\net10.0\P2.runtimeconfig.json
+C:\Users\MAYANK\OneDrive\Documents\Visual Studio Programs\Lab manual program\P2\P2\bin\Debug\net10.0\P2.dll
+C:\Users\MAYANK\OneDrive\Documents\Visual Studio Programs\Lab manual program\P2\P2\bin\Debug\net10.0\P2.pdb
+C:\Users\MAYANK\OneDrive\Documents\Visual Studio Programs\Lab manual program\P2\P2\obj\Debug\net10.0\P2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MAYANK\OneDrive\Documents\Visual Studio Programs\Lab manual program\P2\P2\obj\Debug\net10.0\P2.AssemblyInfoInputs.cache
+C:\Users\MAYANK\OneDrive\Documents\Visual Studio Programs\Lab manual program\P2\P2\obj\Debug\net10.0\P2.AssemblyInfo.cs
+C:\Users\MAYANK\OneDrive\Documents\Visual Studio Programs\Lab manual program\P2\P2\obj\Debug\net10.0\P2.csproj.CoreCompileInputs.cache
+C:\Users\MAYANK\OneDrive\Documents\Visual Studio Programs\Lab manual program\P2\P2\obj\Debug\net10.0\P2.dll
+C:\Users\MAYANK\OneDrive\Documents\Visual Studio Programs\Lab manual program\P2\P2\obj\Debug\net10.0\refint\P2.dll
+C:\Users\MAYANK\OneDrive\Documents\Visual Studio Programs\Lab manual program\P2\P2\obj\Debug\net10.0\P2.pdb
+C:\Users\MAYANK\OneDrive\Documents\Visual Studio Programs\Lab manual program\P2\P2\obj\Debug\net10.0\P2.genruntimeconfig.cache
+C:\Users\MAYANK\OneDrive\Documents\Visual Studio Programs\Lab manual program\P2\P2\obj\Debug\net10.0\ref\P2.dll

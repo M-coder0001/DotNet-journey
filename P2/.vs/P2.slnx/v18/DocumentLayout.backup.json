@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MAYANK\\OneDrive\\Documents\\Visual Studio Programs\\Lab manual program\\P2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{36731A79-1EEF-4465-8B91-743964969158}|P2\\P2.csproj|c:\\users\\mayank\\onedrive\\documents\\visual studio programs\\lab manual program\\p2\\p2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36731A79-1EEF-4465-8B91-743964969158}|P2\\P2.csproj|solutionrelative:p2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MAYANK\\OneDrive\\Documents\\Visual Studio Programs\\Lab manual program\\P2\\P2\\Program.cs",
+              "RelativeDocumentMoniker": "P2\\Program.cs",
+              "ToolTip": "C:\\Users\\MAYANK\\OneDrive\\Documents\\Visual Studio Programs\\Lab manual program\\P2\\P2\\Program.cs",
+              "RelativeToolTip": "P2\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAwAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T02:29:55.542Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
