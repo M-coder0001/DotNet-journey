@@ -1,3 +1,11 @@
 bin/
 obj/
 .vs/
+
+*.user
+*.suo
+*.userosscache
+
+packages/
+
+TestResults/
