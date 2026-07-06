@@ -31,7 +31,6 @@ namespace SelectCourse
                 default:
                     Console.WriteLine("Error: Course not found in the current semester syllabus.");
                     break;
-                    Console.ReadKey();
             }
         }
     }
