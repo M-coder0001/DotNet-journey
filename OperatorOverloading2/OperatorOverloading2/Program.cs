@@ -24,7 +24,7 @@ namespace OperatorOverloading2
         static void Main(string[] args)
         {
             Class1 calc = new Class1(15, -25);
-            Console.WriteLine("After operator overloading");
+            Console.WriteLine("before operator overloading");
             calc.Print();
 
             calc = -calc;
