@@ -10,7 +10,7 @@ public class StandardDelivery : IOrderService
     {
         Console.Write("Enter item name for standard Delivery: ");
         string item = Console.ReadLine();
-        Console.WriteLine("Order placed! For the Product " + item + " and Express delivery will arrive TODAY!");
+        Console.WriteLine("Order placed! For the Product " + item + " and standard delivery will arrive TODAY!");
     }
 }
 public class ExpressDelivery : IOrderService
@@ -26,11 +26,11 @@ class Program
 {
     static void Main(string[] args)
     {
-        IOrderService service = new StandardDelivery();
+        StandardDelivery service = new StandardDelivery();
         service.ProcessOrder();
 
         ExpressDelivery service1 = new ExpressDelivery();
-        service.ProcessOrder();
+        service1.ProcessOrder();
         
         Console.ReadKey();
     }
