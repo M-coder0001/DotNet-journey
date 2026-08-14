@@ -14,7 +14,7 @@ namespace Properties2
             }
             set
             {
-                if (value > 0)
+                if (value >= 0)
                 {
                     balance = value;
                 }
@@ -31,7 +31,7 @@ namespace Properties2
         static void Main(string[] args)
         {
             BankAccount account = new BankAccount();
-            account.Balance = 0; // Set the balance to a positive value
+            account.Balance = 500000; // Set the balance to a positive value
             Console.WriteLine($"Balance: {account.Balance}");
         }
     }
