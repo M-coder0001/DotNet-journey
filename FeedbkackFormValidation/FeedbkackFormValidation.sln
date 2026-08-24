@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.37530.7
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FeedbkackFormValidation", "FeedbkackFormValidation\FeedbkackFormValidation.csproj", "{3D98FEF3-1DF4-4657-94F2-FB79564DE36C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D98FEF3-1DF4-4657-94F2-FB79564DE36C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D98FEF3-1DF4-4657-94F2-FB79564DE36C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D98FEF3-1DF4-4657-94F2-FB79564DE36C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D98FEF3-1DF4-4657-94F2-FB79564DE36C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4188A84E-45AB-47BD-BFA8-92DA76F4A5AA}
+	EndGlobalSection
+EndGlobal
