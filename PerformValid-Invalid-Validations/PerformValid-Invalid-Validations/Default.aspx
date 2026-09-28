@@ -17,7 +17,7 @@
         Password:
         <asp:TextBox ID="TextBox2" runat="server"></asp:TextBox>
 &nbsp;
-        <asp:RequiredFieldValidator ID="RequiredFieldValidator2" runat="server" ControlToValidate="TextBox2" ErrorMessage="Please Enter Password😒" ForeColor="Red"></asp:RequiredFieldValidator>
+        <asp:RequiredFieldValidator ID="RequiredFieldValidator2" runat="server" ControlToValidate="TextBox2" ErrorMessage="Please Enter Password🤨" ForeColor="Red"></asp:RequiredFieldValidator>
         <br />
         <br />
         Confirm Password:
@@ -25,23 +25,23 @@
 &nbsp;
         <asp:RequiredFieldValidator ID="RequiredFieldValidator3" runat="server" ControlToValidate="TextBox3" ErrorMessage="Please Confirm Password😒" ForeColor="Red"></asp:RequiredFieldValidator>
 &nbsp;&nbsp;
-        <asp:CompareValidator ID="CompareValidator1" runat="server" ControlToCompare="TextBox2" ControlToValidate="TextBox3" ErrorMessage="Password Does Not Match😒" ForeColor="Red"></asp:CompareValidator>
+        <asp:CompareValidator ID="CompareValidator1" runat="server" ControlToCompare="TextBox2" ControlToValidate="TextBox3" ErrorMessage="Password Does Not Match.❌" ForeColor="Red"></asp:CompareValidator>
         <br />
         <br />
         Email:
         <asp:TextBox ID="TextBox4" runat="server"></asp:TextBox>
-        <asp:RegularExpressionValidator ID="RegularExpressionValidator1" runat="server" ControlToValidate="TextBox4" ErrorMessage="Please Enter Valid Email ID😒" ForeColor="Red" ValidationExpression="\w+([-+.']\w+)*@\w+([-.]\w+)*\.\w+([-.]\w+)*"></asp:RegularExpressionValidator>
+        <asp:RegularExpressionValidator ID="RegularExpressionValidator1" runat="server" ControlToValidate="TextBox4" ErrorMessage="Please Enter Valid Email ID😑" ForeColor="Red" ValidationExpression="\w+([-+.']\w+)*@\w+([-.]\w+)*\.\w+([-.]\w+)*"></asp:RegularExpressionValidator>
 &nbsp;
         <br />
         <br />
         Birthdate:
         <asp:TextBox ID="TextBox5" runat="server" TextMode="Date"></asp:TextBox>
-        <asp:CustomValidator ID="CustomValidator1" runat="server" ControlToValidate="TextBox5" ErrorMessage="Age Must Be Greater Than 18😒" ForeColor="Red" OnServerValidate="CustomValidator1_ServerValidate"></asp:CustomValidator>
+        <asp:CustomValidator ID="CustomValidator1" runat="server" ControlToValidate="TextBox5" ErrorMessage="Age Must Be Greater Than 18🤏" ForeColor="Red" OnServerValidate="CustomValidator1_ServerValidate"></asp:CustomValidator>
 &nbsp;<br />
         <br />
         Mobile no.:
         <asp:TextBox ID="TextBox6" runat="server" MaxLength="10"></asp:TextBox>
-        <asp:RegularExpressionValidator ID="RegularExpressionValidator2" runat="server" ControlToValidate="TextBox6" ErrorMessage="Number Should Not More Than 10 Digit😒" ForeColor="Red" ValidationExpression="^[6-9]\d{9}$"></asp:RegularExpressionValidator>
+        <asp:RegularExpressionValidator ID="RegularExpressionValidator2" runat="server" ControlToValidate="TextBox6" ErrorMessage="Number Should Not More Than 10 Digit😁" ForeColor="Red" ValidationExpression="^[6-9]\d{9}$"></asp:RegularExpressionValidator>
         <br />
         <br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

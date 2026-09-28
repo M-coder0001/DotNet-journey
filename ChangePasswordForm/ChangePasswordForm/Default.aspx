@@ -18,19 +18,28 @@
         <br />
         Enter Old Password:
         <asp:TextBox ID="TextBox1" runat="server"></asp:TextBox>
-        <asp:RequiredFieldValidator ID="RequiredFieldValidator1" runat="server" ControlToValidate="TextBox1" ErrorMessage="Pleasse Enter Your Old Password" ForeColor="Red"></asp:RequiredFieldValidator>
+        <asp:RequiredFieldValidator ID="RequiredFieldValidator1" runat="server" 
+            ControlToValidate="TextBox1" ErrorMessage="Pleasse Enter Your Old Password" ForeColor="Red">
+        </asp:RequiredFieldValidator>
         <br />
         <br />
         Enter New Password:
         <asp:TextBox ID="TextBox2" runat="server"></asp:TextBox>
-        <asp:CompareValidator ID="CompareValidator1" runat="server" ControlToCompare="TextBox2" ControlToValidate="TextBox1" ErrorMessage="Password Must be Different " ForeColor="Red" Operator="NotEqual"></asp:CompareValidator>
+        <asp:CompareValidator ID="CompareValidator1" runat="server" 
+            ControlToCompare="TextBox2" ControlToValidate="TextBox1" 
+            ErrorMessage="Password Must be Different " ForeColor="Red" Operator="NotEqual">
+        </asp:CompareValidator>
 &nbsp;&nbsp;&nbsp;
-        <asp:RequiredFieldValidator ID="RequiredFieldValidator2" runat="server" ControlToValidate="TextBox2" ErrorMessage="Please Enter Password" ForeColor="Red"></asp:RequiredFieldValidator>
+        <asp:RequiredFieldValidator ID="RequiredFieldValidator2" runat="server" 
+            ControlToValidate="TextBox2" ErrorMessage="Please Enter Password" ForeColor="Red">
+        </asp:RequiredFieldValidator>
         <br />
         <br />
         Confirm Password:
         <asp:TextBox ID="TextBox3" runat="server"></asp:TextBox>
-        <asp:CompareValidator ID="CompareValidator2" runat="server" ControlToCompare="TextBox3" ControlToValidate="TextBox2" ErrorMessage="Password Not Matched" ForeColor="Red"></asp:CompareValidator>
+        <asp:CompareValidator ID="CompareValidator2" runat="server" 
+            ControlToCompare="TextBox2" ControlToValidate="TextBox3" 
+            ErrorMessage="Password Not Matched" ForeColor="Red"></asp:CompareValidator>
         <br />
         <br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<asp:Button ID="Button1" runat="server" Text="Submit" OnClick="Button1_Click" />
